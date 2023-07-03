@@ -1,2 +1,0 @@
-# jetsonNano
-JetsonNano Code

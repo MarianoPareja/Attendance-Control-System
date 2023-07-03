@@ -1,4 +1,6 @@
 *.png
 *.jpg
+*.pt
 
 attendanceControlSystem/
+System-Attendance-CV/models/
